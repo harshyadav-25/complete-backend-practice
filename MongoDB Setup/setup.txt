@@ -1,0 +1,10 @@
+mongoDB installation 
+
+
+mongoDB connection
+
+schema
+
+model
+
+crud operations
